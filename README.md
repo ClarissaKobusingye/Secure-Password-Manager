@@ -43,7 +43,7 @@ npm install
 ```
 
 
-## Usage
+## 🚀 Usage
 **Run Tests:**
 ```bash
 npm test
